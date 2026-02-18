@@ -165,7 +165,7 @@ npm run lint         # Run ESLint
 
 2. **Set environment variables** on your hosting platform
    \`\`\`env
-   GOOGLE_PLACES_API_KEY=AIzaSyCM0K-3geLgvOAHVkUjV7MNW3U0O9tMf9U
+   GOOGLE_PLACES_API_KEY=
    \`\`\`
 
 3. **Deploy to Vercel** (recommended)
