@@ -36,7 +36,7 @@ npm install
 ### 3. Environment Setup
 Create a `.env.local` file in the project root:
 \`\`\`env
-GOOGLE_PLACES_API_KEY=AIzaSyCM0K-3geLgvOAHVkUjV7MNW3U0O9tMf9U
+GOOGLE_PLACES_API_KEY=
 \`\`\`
 
 ### 4. Get Google Places API Key

@@ -46,7 +46,7 @@ export function ApiSetupGuide() {
         <div className="bg-gray-50 p-3 rounded-md">
           <p className="text-sm font-medium mb-2">Add this to your .env.local file:</p>
           <code className="text-xs bg-gray-800 text-green-400 p-2 rounded block">
-           GOOGLE_PLACES_API_KEY=AIzaSyBWHz0bD2Qxck4-VDP0wxlVd7MTzmNaco8
+           GOOGLE_PLACES_API_KEY=
           </code>
         </div>
 
